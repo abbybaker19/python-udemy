@@ -19,10 +19,10 @@ for i in abby_dict:
 
 abby_dict.clear()
 
-# employees = []
-# f_name, l_name = input("enter employee name: ").split()
-# employees.append({"f_name": f_name, "l_name": l_name})
-# print(employees)
+employees = []
+f_name, l_name = input("enter employee name: ").split()
+employees.append({"f_name": f_name, "l_name": l_name})
+print(employees)
 
 # create an array of customer dictionaries
 # sample output:
